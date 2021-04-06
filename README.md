@@ -1,4 +1,4 @@
-# YouTube-concept - учебный проект Glo Acadimy
+# YouTube-concept - учебный проект Glo Academy
 
 Проект выполнил Dima Kobza
 
