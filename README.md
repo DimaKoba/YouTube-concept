@@ -7,3 +7,4 @@
 - CSS
 - Normalize.css
 - SVG Sprites
+- JS
